@@ -4,10 +4,6 @@
 
 </head>
 <body>
-<h2>Intent Aware Recommender Systems</h2>
-<p align="center">
-  <img src="intentAware.webp" width="300", title="Intent Aware Recommender Systems">
-</p>
 <h2>Installation guide</h2>  
 <p>This is how the framework can be downloaded and configured to run the experiments</p>
 <h5>Using Docker</h5>
