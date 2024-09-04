@@ -27,7 +27,6 @@
     <li>Run this command to activate the virtual environment: <code>conda activate Intent_Aware_env</code></li>
     <li>Run this command to install the required libraries for CPU: <code>pip install -r requirements_cpu.txt</code>. However, if you have support of CUDA-capable GPUs, 
         then run this command to install the required libraries to run the experiments on GPU: <code>pip install -r requirements_gpu.txt</code></li>
-    
     <li>Finally, follow the given instructions to run the experiments</li>
   </ul>
 
