@@ -34,9 +34,9 @@
 <h2>Follow these steps to reproduce the models</h2>
 <ul>
 <li>Download <a href="https://www.dropbox.com/sh/n281js5mgsvao6s/AADQbYxSFVPCun5DfwtsSxeda?dl=0" target="_blank">Yoochoose</a> dataset, unzip it and put the “yoochoose-clicks.dat” file into the “data” directory/folder. </li>
-<li>Run this command to reproduce the experiments for the TAGNN and baseline models on the shorter version of the Yoochoose dataset: <code>python run_experiments_TAGNN_And_baseline_models.py --dataset yoochoose1_64</code></li>
+<li>Run this command to reproduce the experiments for the TAGNN and baseline models on the shorter version of the Yoochoose dataset: <code>python run_experiments_TAGNN_baseline_models.py --dataset yoochoose1_64</code></li>
 <li>Download <a href="https://www.dropbox.com/sh/n281js5mgsvao6s/AADQbYxSFVPCun5DfwtsSxeda?dl=0" target="_blank">Diginetica</a> dataset, unzip it and put the “train-item-views.csv” file into the “data” directory/folder. </li>
-<li>Run this command to reproduce the experiments for the TAGNN and baseline models on the Diginetica dataset: <code>python run_experiments_TAGNN_And_baseline_models.py --dataset diginetica</code></li> 
+<li>Run this command to reproduce the experiments for the TAGNN and baseline models on the Diginetica dataset: <code>python run_experiments_TAGNN_baseline_models.py --dataset diginetica</code></li> 
 </ul>
 
 
